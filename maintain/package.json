@@ -27,5 +27,8 @@
   "repository": {
     "type": "git",
     "url": "jwalkcoding"
+  },
+  "directories": {
+    "doc": "docs"
   }
 }
