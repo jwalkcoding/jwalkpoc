@@ -5,9 +5,10 @@ ehthumbs.db
 # Folder config file
 Desktop.ini
 
-# Eclipse metadata folder files
+# ignore Eclipse metadata folder files
 .metadata/version.ini
 .metadata/.log
+
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
