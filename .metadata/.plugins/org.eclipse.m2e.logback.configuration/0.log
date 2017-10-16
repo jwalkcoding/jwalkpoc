@@ -1100,3 +1100,99 @@
 2017-10-15 13:55:20,255 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
 2017-10-15 13:55:20,292 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-10-15 13:55:20,293 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jay Walker\Documents\GitHub\jwalkpoc\springapp\src\test\resources
+2017-10-15 18:05:02,692 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-15 18:09:50,242 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jwalkcoding:springwebui:0.0.1-SNAPSHOT @ C:\Users\Jay Walker\Documents\GitHub\jwalkpoc\springwebui\pom.xml.
+2017-10-15 18:09:52,461 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 18:09:52,472 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-15 18:09:52,510 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-10-15 18:09:52,524 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 18:09:52,525 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jay Walker\Documents\GitHub\jwalkpoc\springwebui\src\test\resources
+2017-10-15 18:09:56,263 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jwalkcoding:springwebui:0.0.1-SNAPSHOT @ C:\Users\Jay Walker\Documents\GitHub\jwalkpoc\springwebui\pom.xml.
+2017-10-15 18:09:57,178 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 18:09:57,183 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-15 18:09:57,184 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-15 18:09:57,189 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 18:09:57,190 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jay Walker\Documents\GitHub\jwalkpoc\springwebui\src\test\resources
+2017-10-15 18:10:33,587 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-10-15 18:10:56,221 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Jay Walker\Documents\GitHub\jwalkpoc\springwebui
+2017-10-15 18:10:56,222 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2017-10-15 18:13:57,834 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jwalkcoding.springangular:springangular:0.0.1-SNAPSHOT @ C:\Users\Jay Walker\Documents\GitHub\jwalkpoc\springangular\pom.xml.
+2017-10-15 18:14:10,358 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 18:14:10,370 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-15 18:14:10,581 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2017-10-15 18:14:10,724 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 18:14:10,726 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-15 18:14:10,823 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2017-10-15 18:14:10,839 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 18:14:10,840 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-15 18:14:10,850 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 18:14:10,851 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-15 18:14:32,230 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 18:14:32,288 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-15 18:14:32,366 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2017-10-15 18:14:32,529 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 18:14:32,547 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-10-15 18:14:32,616 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2017-10-15 18:14:32,642 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 18:14:32,652 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-10-15 18:14:32,661 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 18:14:32,669 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2017-10-15 18:15:38,625 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jwalkcoding.app:mavenized:1.0-SNAPSHOT @ C:\Users\Jay Walker\Documents\GitHub\jwalkpoc\samplemaven\mavenized\pom.xml.
+2017-10-15 18:15:39,293 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 18:15:39,294 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jay Walker\Documents\GitHub\jwalkpoc\samplemaven\mavenized\src\main\resources
+2017-10-15 18:15:39,298 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 18:15:39,300 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jay Walker\Documents\GitHub\jwalkpoc\samplemaven\mavenized\src\test\resources
+2017-10-15 18:15:40,861 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 18:15:40,862 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jay Walker\Documents\GitHub\jwalkpoc\samplemaven\mavenized\src\main\resources
+2017-10-15 18:15:40,869 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 18:15:40,871 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jay Walker\Documents\GitHub\jwalkpoc\samplemaven\mavenized\src\test\resources
+2017-10-15 18:18:19,278 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-15 18:50:44,011 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-15 18:59:44,617 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jwalkcoding:springstarter:0.0.1-SNAPSHOT @ C:\Users\Jay Walker\Documents\GitHub\jwalkpoc\demo\pom.xml.
+2017-10-15 18:59:45,553 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/1.5.7.RELEASE/spring-boot-starter-actuator-1.5.7.RELEASE.pom
+2017-10-15 18:59:45,619 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/1.5.7.RELEASE/spring-boot-starter-actuator-1.5.7.RELEASE.pom
+2017-10-15 18:59:46,419 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-docs/1.5.7.RELEASE/spring-boot-actuator-docs-1.5.7.RELEASE.pom
+2017-10-15 18:59:46,476 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-docs/1.5.7.RELEASE/spring-boot-actuator-docs-1.5.7.RELEASE.pom
+2017-10-15 18:59:47,649 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/1.5.7.RELEASE/spring-boot-starter-actuator-1.5.7.RELEASE.jar
+2017-10-15 18:59:47,695 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/1.5.7.RELEASE/spring-boot-starter-actuator-1.5.7.RELEASE.jar
+2017-10-15 18:59:47,737 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-docs/1.5.7.RELEASE/spring-boot-actuator-docs-1.5.7.RELEASE.jar
+2017-10-15 18:59:48,043 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-docs/1.5.7.RELEASE/spring-boot-actuator-docs-1.5.7.RELEASE.jar
+2017-10-15 18:59:48,073 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/1.5.7.RELEASE/spring-boot-starter-tomcat-1.5.7.RELEASE.jar
+2017-10-15 18:59:48,121 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/1.5.7.RELEASE/spring-boot-starter-tomcat-1.5.7.RELEASE.jar
+2017-10-15 18:59:48,157 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.5.20/tomcat-embed-core-8.5.20.jar
+2017-10-15 18:59:49,010 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.5.20/tomcat-embed-core-8.5.20.jar
+2017-10-15 18:59:49,044 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/8.5.20/tomcat-embed-el-8.5.20.jar
+2017-10-15 18:59:49,169 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/8.5.20/tomcat-embed-el-8.5.20.jar
+2017-10-15 18:59:49,195 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.20/tomcat-embed-websocket-8.5.20.jar
+2017-10-15 18:59:49,338 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.20/tomcat-embed-websocket-8.5.20.jar
+2017-10-15 18:59:52,435 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2017-10-15 18:59:52,441 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2017-10-15 18:59:52,478 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2017-10-15 18:59:52,561 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2017-10-15 18:59:55,388 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 19 sec
+2017-10-15 18:59:55,397 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-15 19:00:00,787 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jwalkcoding:springstarter:0.0.1-SNAPSHOT @ C:\Users\Jay Walker\Documents\GitHub\jwalkpoc\demo\pom.xml.
+2017-10-15 19:00:02,928 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2017-10-15 19:00:02,930 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2017-10-15 19:00:02,936 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2017-10-15 19:00:02,947 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2017-10-15 19:00:04,910 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 9 sec
+2017-10-15 19:00:21,156 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 19:00:21,173 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-15 19:00:21,213 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-15 19:00:21,225 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 19:00:21,226 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jay Walker\Documents\GitHub\jwalkpoc\demo\src\test\resources
+2017-10-15 19:00:21,688 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 19:00:21,689 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jay Walker\Documents\GitHub\jwalkpoc\samplemaven\mavenized\src\main\resources
+2017-10-15 19:00:21,696 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 19:00:21,698 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jay Walker\Documents\GitHub\jwalkpoc\samplemaven\mavenized\src\test\resources
+2017-10-15 19:09:07,834 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 19:09:07,839 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-15 19:09:07,840 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-15 19:09:07,846 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 19:09:07,847 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jay Walker\Documents\GitHub\jwalkpoc\demo\src\test\resources
+2017-10-15 19:09:07,860 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 19:09:07,860 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jay Walker\Documents\GitHub\jwalkpoc\samplemaven\mavenized\src\main\resources
+2017-10-15 19:09:07,862 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 19:09:07,862 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jay Walker\Documents\GitHub\jwalkpoc\samplemaven\mavenized\src\test\resources
+2017-10-15 21:42:45,121 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
