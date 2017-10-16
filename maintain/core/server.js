@@ -4,8 +4,11 @@ var app = express();
 var bodyParser = require('bodyParser');
 
 
-app.get('/api/applications', function(req, res) {
+app.get('/api/applications',
 
-    res.send();
+    function(req, res) {
 
-});
+        res.send();
+    }
+
+);
