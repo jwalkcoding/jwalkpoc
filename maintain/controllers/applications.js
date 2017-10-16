@@ -18,6 +18,8 @@ function getApplicationList(req, res) {
     });
 }
 
+
+
 module.exports = {
     getApplicationList: getApplicationList
 };
